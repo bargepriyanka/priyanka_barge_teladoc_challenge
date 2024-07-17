@@ -13,11 +13,13 @@ cd priyanka_barge_teladoc_challenge
 
 Create a virtual environment named myenv (you can replace myenv with your preferred name):
 
-A) macOS and Linux:
+A) **macOS and Linux**:
+
 python3 -m venv myenv
 source myenv/bin/activate
 
-B) Windows:
+B) **Windows**:
+
 python -m venv myenv
 myenv\Scripts\activate
 
